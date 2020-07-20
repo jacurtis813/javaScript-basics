@@ -6,4 +6,8 @@ Continue the self-taught route until August 2020. Classes begin.
 2. Create a new file to work from on the javascript basics course content
 3. Create our first line of js code within the js file
 4. Understanding the use and utilization of javascript tools, frameworks and libraries
-5. 
+5. Understanding that there are differnet versions of javascript that can be used
+6. Starting with the concept of variables and data types
+7. Clear the current code that we have shown, begin writing our first variable
+8. Start by declaring our first variable, in this cas we declared variable name and set the text string that we want to assign
+9. 
