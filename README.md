@@ -10,4 +10,8 @@ Continue the self-taught route until August 2020. Classes begin.
 6. Starting with the concept of variables and data types
 7. Clear the current code that we have shown, begin writing our first variable
 8. Start by declaring our first variable, in this cas we declared variable name and set the text string that we want to assign
-9. 
+__________________________________________________________________________________
+
+1. Continue the next stages of web development. Begin the video walk throughs and begin scripting code
+2. Creating a javascript project from scratch. Course walk through material from Jonas web-development
+3. Continue self-taught route while in college full-time. Update Readme to begin
