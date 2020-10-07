@@ -15,3 +15,5 @@ ________________________________________________________________________________
 1. Continue the next stages of web development. Begin the video walk throughs and begin scripting code
 2. Creating a javascript project from scratch. Course walk through material from Jonas web-development
 3. Continue self-taught route while in college full-time. Update Readme to begin
+4. Understanding the data types- of javaScript data types (strings, number, boolean (true or false), undefined (no value yet), and null (non-existment, meaning non-existent rather than none))
+5. Declare variables after understanding the different types as well as how to
