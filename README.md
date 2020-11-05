@@ -17,3 +17,8 @@ ________________________________________________________________________________
 3. Continue self-taught route while in college full-time. Update Readme to begin
 4. Understanding the data types- of javaScript data types (strings, number, boolean (true or false), undefined (no value yet), and null (non-existment, meaning non-existent rather than none))
 5. Declare variables after understanding the different types as well as how to
+___________________________________________________________________________________
+
+1. Recap and refresher on how to open and work the documents again
+2. 
+
